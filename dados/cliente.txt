@@ -1,0 +1,35 @@
+27762694893;Douglas Benicio;2;1
+60907464280;Luiz Barros;2;1
+43329784114;Lucas Paiva;4;0
+12979970627;Daniela de Paula;5;1
+46750031783;Rodrigo Borges;1;0
+63121975080;Ian Pereira;6;0
+56098921322;Felipe Sathler;4;2
+18992429894;Mariana Ferreira;5;0
+16700531590;Pedro Sathler;7;0
+27973649218;Douglas Barros;5;1
+16854554098;Pedro Rodrigues;3;0
+24553441748;Matheus Guimarães;8;2
+58605574587;Luiz Duarte;1;1
+51381149701;Alex Gabriel;3;2
+65627087950;Filipe de Jesus;8;1
+22415532778;Rafael Veiga;1;2
+41475363336;Lucas Araujo;2;1
+25687418920;Matheus Duarte;3;0
+62054395136;Ian Villani;3;0
+23150303654;Rafael Rodrigues;6;0
+53035286788;Alex Carvalho;1;2
+57706601751;Felipe Guimarães;2;1
+32784796918;Yuske da Silva;8;1
+26757199092;Matheus Castilho;2;0
+29275898105;Douglas Soares;8;1
+34404847539;Alan Barros;3;2
+50024579778;Luis Paiva;1;0
+43144140159;Lucas Pereira;3;1
+16072556362;Pedro Veiga;6;2
+13919085709;Daniela Carvalho;4;1
+54843791418;Felipe Aguiar;8;2
+66377969082;Filipe Carvalho;3;0
+56577844968;Felipe Pereira;4;0
+38644354521;Victor Ferreira;7;2
+53800266476;Alex Bertolini;4;0
